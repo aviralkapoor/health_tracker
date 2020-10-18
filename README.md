@@ -6,3 +6,5 @@ Various exercises along with food intake are also provided for you to stay healt
 
 Step:
 Extract the rar file and run it in a django Env.
+Username: aviral
+Password: happy
